@@ -4,7 +4,7 @@
 
 • IDE: NetBeans 8.2
 
-• Skill Used: Java Server Page, MySQL
+• Skill Used: Java Server Faces, MySQL
 
 • Type of Application: Java Web (Java Server Page)
 
